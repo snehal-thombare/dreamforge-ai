@@ -87,4 +87,4 @@ Generated images are subject to the model licenses. Please use responsibly.
 
 ## Author
 
-**<Your Name>**: [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Snehal Thombare**: [LinkedIn](https://www.linkedin.com/in/snehal-thombare-a0a58836a?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/snehal-thombare)
