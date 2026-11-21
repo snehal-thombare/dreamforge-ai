@@ -75,7 +75,7 @@ Open the local URL it prints. First run downloads about 5 GB of model weights.
 | `app.py` | the full app (model, preprocessing, generation, UI) |
 | `DreamForge_AI.ipynb` | step-by-step notebook: setup, tests, evaluation |
 | `requirements.txt` | app dependencies |
-| `assets/` | screenshots, results grid, demo GIF |
+| `assets/` | app screenshots and sketch vs result comparison |
 
 ## Credits and licenses
 
