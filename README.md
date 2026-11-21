@@ -8,7 +8,9 @@ DreamForge turns a hand-drawn sketch plus a text prompt into an image using
 > ▶️ **Run in Colab:** _add your "Open in Colab" badge_
 > 🎥 **Demo video:** _add link_
 
-![results grid](assets/results_grid.png)
+![Sketch vs result](assets/sketch_vs_result.png)
+
+![DreamForge app](assets/app_screenshot.png)
 
 ## How it works
 
