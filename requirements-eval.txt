@@ -1,0 +1,4 @@
+# only needed to re-run the evaluation notebook
+opencv-python
+scikit-image
+pandas
