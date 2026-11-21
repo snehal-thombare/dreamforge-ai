@@ -4,7 +4,7 @@ Scribble a rough shape, describe a world, and watch it get forged.
 DreamForge turns a hand-drawn sketch plus a text prompt into an image using
 **Stable Diffusion 1.5 + ControlNet (Scribble)**, wrapped in a Gradio app.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/snehal-thombare/dreamforge-ai/blob/main/DreamForge_AI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/snehal-thombare/dreamforge-ai/blob/main/dreamfrog.ai.ipynb)
 
 ![Sketch vs result](assets/sketch_vs_result.png)
 
